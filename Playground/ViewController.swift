@@ -22,7 +22,7 @@ class ViewController: UIViewController {
     
     @IBAction func btn(_ sender: Any) {
         
-        self.lbltext.text = "It is working test"
+        self.lbltext.text = "It is working "
     }
 }
 
